@@ -1,5 +1,3 @@
-# MET-673-Team-1
+# Tank fighting game using Unity engine
 
-This is a collaboration project for MET-673 class at Boston University.
-
-The project is a deaktop tank game using unity platform.
+This is a collaboration project. It's a tank game using unity platform.
